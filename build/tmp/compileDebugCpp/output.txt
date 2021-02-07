@@ -1,0 +1,9 @@
+See file:///D:/cs417/matrixSolverCpp/build/tmp/compileDebugCpp/output.txt for all output for compileDebugCpp.
+compiling main.cpp successful.
+main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(415): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(408): note: while compiling class template member function 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+D:\cs417\matrixSolverCpp\src\main\cpp\main.cpp(113): note: see reference to function template instantiation 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)' being compiled
+D:\cs417\matrixSolverCpp\src\main\cpp\main.cpp(16): note: see reference to class template instantiation 'std::basic_ostream<char,std::char_traits<char>>' being compiled
+
+Finished compileDebugCpp, see full log file:///D:/cs417/matrixSolverCpp/build/tmp/compileDebugCpp/output.txt.
